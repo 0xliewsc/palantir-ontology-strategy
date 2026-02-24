@@ -1,5 +1,9 @@
 # パランティアの衝撃：データとAIを繋ぐ「オントロジー」戦略 🌐
 
+<p align="left">
+  <img src="../assets/cover_design.png" width="80%">
+</p>
+
 ## Part I: The Problem and the Paradigm（課題とパラダイムシフト）
 
 ### 序章：AI時代になぜ「データ統合」は失敗するのか
