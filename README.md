@@ -68,10 +68,12 @@ Related Projects
 
 本書は、以下のオープンソースプロジェクトと連携しています。
 
-- **[The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)** —
-  Anthropic CEO ダリオ・アモディの思想を体系化したOSS書籍。Scaling Lawsの本質と、AIが人類にもたらす未来を解き明かします。
-- **[Depth & Velocity](https://github.com/Leading-AI-IO/depth-and-velocity)** —
-  生成AI時代の新規事業開発方法論。従来の「広く浅い」アプローチに代わる、深さと速度を両立する実践フレームワーク。
+| プロジェクト | 概要 | リンク |
+|---|---|---|
+| **The AI Strategist** | AIストラテジストという職業を定義し、ビジネス×テクノロジー×クリエイティブの交差点で戦うための実践的フレームワーク | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **Depth & Velocity** | AI時代の新規事業開発方法論。深さと速さを両立する独自フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
+| **The Silence of Intelligence** | ダリオ・アモデイの思想を構造的に分析し、AI時代の知性・倫理・文明を考察する三部作 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
+| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 
 ---
 
